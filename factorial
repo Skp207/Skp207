@@ -1,0 +1,8 @@
+# Smartphone
+dual
+int i;
+int j;
+if(i%2==0);
+System.out.print("HCF="+i);
+else
+System.out.println("LCM="+i);
