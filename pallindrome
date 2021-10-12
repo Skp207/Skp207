@@ -1,0 +1,19 @@
+BufferedReader sipu=new BufferedReader();
+class snehasish
+{
+public void main()
+{
+int i=sipu.Integer();
+int f=sipu.Integer();
+for(i=0;i<=n;i++)
+{
+if(i%2==0)
+f=1;
+}
+f++;
+for(int j=0;j<=i;j++){
+if(n%j==0 && n%i==0)
+System.out.println("pallindrome number="+n);
+f=0;}
+}
+}
