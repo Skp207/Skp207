@@ -1,0 +1,18 @@
+import java.io.*;
+class snehasish
+{
+Scanner ob=newScanner();
+void main()
+{
+int i=Int.ValueOf();
+int j=Int.ValueOf();
+int t=Int.ValueOf():
+for(i=0;i<=n;i++)
+{
+for(j=0;j<=i;j++)
+{
+if(i%2==0 && i%j==0)
+{System.out.println("Armstrong number="+i);
+}
+}
+}
