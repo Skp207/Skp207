@@ -1,21 +1,16 @@
-﻿Buffered Reader sub=newBufferedReader();
-class snehasish
+import java.io.*;
+class jhilli
 {
-import java.io.;
-static void main()
+public static void main()
 {
-int a,b;
-a=sub.Integer();
-b=sub.Integer();
-double c;
-c=sub.Float():
-String c;
-c=sub.UpperCase();
-c=a+b/2;
-if(c==0){
-for(int i=0;i<=n;i++){if(c==0){System.out.print("number of uppercase letters="+c);}}}
+       Scanner boj=newScanner();
+int i=boj.valueOf();
+int j=boj.valueOf();
+for(i=0;i<=n;i++)
+{
+for(j=0;j<-i;j++)
+{
+}}
+main();
 }
 }
-
-
-
