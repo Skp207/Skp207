@@ -1,0 +1,17 @@
+import java.io.*.;
+class snehasish
+{
+public static void main()
+   {
+      Scanner ob=new Scanner();
+      Switch();
+      {
+      case 1:System.out.println("Hello World");
+      case 2:System.out.println("My name is ");
+      case 3:System.out.println("My date of birth is ");
+      case 4:System.out.println("My address is ");
+      case 5:break;
+      }
+      }
+      }
+      
