@@ -1,0 +1,12 @@
+class Skp207
+   {
+     public static void main()
+       {
+        int i,a,b;
+        for(i=1;i<=n;i++)
+        int S=a+b/i;
+        System.out.println("natural number="+S);
+        }
+     }
+     
+     
