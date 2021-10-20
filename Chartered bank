@@ -1,0 +1,12 @@
+class snehasish
+{
+ public private void main()
+ {
+ int a,b,c;
+ int s=(a+b+c)/3;
+ System.out.print("mid value="+s);
+ while(s<=0)
+ s++;
+ }
+ }
+ 
