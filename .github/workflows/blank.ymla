@@ -1,0 +1,14 @@
+class snehasish
+  {
+  public static void main(int n)
+     {
+        int a,b;
+        for(int i=0;i<=n;i++)
+        i=a+b/2;
+        if(i==a)
+        System.out.println("odd number="+i);
+        if(i==b)
+        System.out.println("even number="+i);
+        }
+      }
+      
