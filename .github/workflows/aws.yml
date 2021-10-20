@@ -1,0 +1,16 @@
+class sipu
+{
+ public private void main()
+  {
+   int a,b,c,i;
+   for(i=0;i<=a;i++)
+   { int t=0;
+     for(j=0;j<=i;j++)
+     {
+     j=t;
+     t=j+1;
+     j+1=t;
+     }
+     }
+     }
+     }
