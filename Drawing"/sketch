@@ -1,0 +1,14 @@
+class snehasish
+{
+public void main()
+{
+int i,j;
+String S;
+char c;
+for(i=0;i%2=0;i++)
+{
+if(j%2==0)
+System.out.println("Surname ="+c);
+}
+}
+}
