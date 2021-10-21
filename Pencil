@@ -1,0 +1,11 @@
+class snehasish
+{
+public void main()
+{
+int a;
+int b;
+int c;
+c=a+b/2;
+do While(c==0)}
+}
+
