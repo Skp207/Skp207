@@ -1,0 +1,13 @@
+import java.io.;
+class sipu
+{
+ public void main()
+ {
+ Scanner obj= newScanner();
+ int a=obj.Int();
+ int b=obj.Int();
+ int perimeter= 2(a+b);
+ System.out.println("perimeter of a rectangle = "+perimeter);
+ }
+ }
+ 
