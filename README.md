@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skp207
 - 👀 I’m interested in ...reading
-- 🌱 I’m engineer
+- 🌱 I’m musician
 - 💞️ I’m looking to collaborate on ...infrastructure
 - 📫 How to reach me ...by way
 
